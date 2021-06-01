@@ -30,6 +30,7 @@
     "url": "https://github.com/wsypower/vue-/issues"
   },
   "dependencies": {
-    "@w-cli-dev/utils": "file:../../utils/utils"
-  }
+    "@w-cli-dev/utils": "^0.0.1"
+  },
+  "gitHead": "246e55c09883196e590b8406d99b6acec6b87d60"
 }

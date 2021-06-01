@@ -1,6 +1,6 @@
 {
   "name": "@w-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "core",
   "keywords": [
     "core"
@@ -30,7 +30,7 @@
     "url": "https://github.com/wsypower/vue-/issues"
   },
   "dependencies": {
-    "@w-cli-dev/utils": "^0.0.1"
+    "@w-cli-dev/utils": "^0.0.2"
   },
   "gitHead": "246e55c09883196e590b8406d99b6acec6b87d60"
 }

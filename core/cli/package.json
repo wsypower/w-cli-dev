@@ -1,0 +1,35 @@
+{
+  "name": "@w-cli-dev/core",
+  "version": "0.0.0",
+  "description": "core",
+  "keywords": [
+    "core"
+  ],
+  "bin": {
+    "w-cli-dev": "bin/index.js"
+  },
+  "author": "魏亚飞 <2553241022@qq.com>",
+  "homepage": "https://github.com/wsypower/vue-#readme",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wsypower/vue-.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/wsypower/vue-/issues"
+  },
+  "dependencies": {
+    "@w-cli-dev/utils": "file:../../utils/utils"
+  }
+}

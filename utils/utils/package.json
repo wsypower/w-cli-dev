@@ -2,6 +2,7 @@
   "name": "@w-cli-dev/utils",
   "version": "0.0.2",
   "description": "utils",
+  "private": "false",
   "keywords": [
     "utils"
   ],
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/wsypower/vue-/issues"
   },
-  "gitHead": "246e55c09883196e590b8406d99b6acec6b87d60"
+  "gitHead": "7ccd592f04b3c0e61cf086e7a03134bf272fd1f7"
 }

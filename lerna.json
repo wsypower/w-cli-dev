@@ -1,4 +1,10 @@
 {
-  "packages": ["core/*", "modules/*", "commands/*", "utils/*", "packages/*"],
-  "version": "0.0.0"
+  "packages": [
+    "core/*",
+    "modules/*",
+    "commands/*",
+    "utils/*",
+    "packages/*"
+  ],
+  "version": "0.0.1"
 }
